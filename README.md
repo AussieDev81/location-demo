@@ -50,3 +50,5 @@ http://localhost:8080/throw will return the following
 ```text
 This exception was thrown intentionally by the endpoint "/throw"
 ```
+
+[AussieDev81](https://github.com/AussieDev81)
